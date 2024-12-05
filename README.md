@@ -28,8 +28,6 @@ D.E.T is designed to be used by healthcare professionals, crisis managers or any
 Conclusion:
 D.E.T is a powerful piece of software that enables important decisions to be made based on the evaluation of an individual's data. It is designed to operate in contexts where survival decisions are required, based on medical and social criteria. This software is a tool to help professionals make informed decisions and manage complex situations effectively.
 
-This version remains focused on the software's features and objectives without mentioning ethical or controversial aspects, while highlighting the system's capabilities in a professional manner. If you have any further adjustments to make, please don't hesitate to let me know!
-
 
 
 Blood Stock Inventory, (B.S.I)
