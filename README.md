@@ -1,30 +1,35 @@
 # D.E.T
 
-D.E.T (Decide, Evaluate, Terminate) est un logiciel conçu pour analyser des données et prendre des décisions concernant la survie d’un individu en fonction de critères spécifiques. À travers une analyse approfondie des informations médicales, biologiques et sociales, le logiciel aide à déterminer si une personne doit continuer à vivre ou non, selon un ensemble de paramètres préalablement définis.
+D.E.T (Decide, Evaluate, Terminate) is a software program designed to analyze data and make decisions about an individual's survival based on specific criteria. Through in-depth analysis of medical, biological and social information, the software helps to determine whether a person should continue to live or not, according to a set of pre-defined parameters.
 
-Objectifs principaux :
-Décider : En fonction des critères entrés dans le système, le logiciel prend des décisions relatives à la survie d'un individu. Cela inclut des facteurs de santé et des considérations générales.
-Évaluer : Le logiciel analyse des informations détaillées sur chaque individu pour évaluer leur situation médicale et leur risque de survie ou de contribution dans un cadre spécifique.
-Terminer : Si les conditions sont jugées défavorables selon les paramètres définis, le logiciel conclut sur la nécessité de mettre fin à l'existence de la personne en question, en fonction des critères évalués.
-Fonctionnalités principales :
-Évaluation des données personnelles : Le logiciel collecte des informations sur la génétique, les antécédents médicaux et l’état actuel de santé de l'individu. Ces données permettent de créer un profil complet qui sera analysé selon les critères de décision.
+Main objectives:
+Decide: Based on the criteria entered into the system, the software makes decisions about an individual's survival. This includes health factors and general considerations.
+Evaluate: The software analyzes detailed information on each individual to assess their medical situation and their risk of survival or contribution within a specific setting.
+Terminate: If conditions are deemed unfavorable according to the defined parameters, the software concludes on the need to terminate the person's existence, based on the criteria assessed.
 
-Analyse des risques : Le logiciel évalue les risques associés à l'état de santé de chaque individu, et prend en compte des facteurs comme la gravité des maladies, les chances de rétablissement, ou d'autres critères pertinents pour déterminer la survie.
+Main features:
+Personal data evaluation: The software collects information on the individual's genetics, medical history and current state of health. This data is used to create a complete profile, which is then analyzed according to decision criteria.
 
-Prise de décision : Sur la base de l’analyse des données, le système génère une recommandation indiquant si la personne doit continuer à vivre, selon les critères médicaux et sociaux préalablement définis.
+Risk analysis: The software assesses the risks associated with each individual's state of health, and takes into account factors such as severity of illness, chances of recovery, or other relevant criteria to determine survival.
 
-Interface utilisateur : Une interface simple permet à l'utilisateur de saisir les données nécessaires pour chaque individu et d'exécuter l’analyse. Le résultat de l’évaluation est ensuite affiché sous forme d’une recommandation claire.
+Decision-making: Based on the analysis of the data, the system generates a recommendation as to whether the person should continue to live, according to the medical and social criteria previously defined.
 
-Gestion des résultats : Après une évaluation complète, le logiciel affiche les résultats sous forme de recommandations. Ces résultats sont utilisés pour prendre des décisions dans des contextes où la gestion des ressources humaines et médicales est cruciale.
+User interface: A simple interface allows the user to enter the necessary data for each individual and run the analysis. The result of the assessment is then displayed in the form of a clear recommendation.
 
-Technologies utilisées :
-Base de données : Le logiciel repose sur une base de données pour stocker et organiser les informations nécessaires à l’évaluation des individus.
-Python : Le développement du logiciel se base sur le langage Python, utilisé pour la gestion des données, les calculs d’analyse, et l’affichage des résultats.
-Calculs avancés : Utilisation d'algorithmes pour traiter les données et fournir des recommandations précises en fonction des paramètres d’entrée.
-Utilisation du logiciel :
-D.E.T est conçu pour être utilisé par des professionnels de la santé, des gestionnaires de crises ou toute autre organisation nécessitant un outil de décision rapide et efficace. Grâce à sa capacité à traiter une grande quantité de données, le logiciel offre une solution pour gérer des situations où les ressources humaines et médicales sont limitées et où des décisions doivent être prises rapidement.
+Results management: After a complete assessment, the software displays the results in the form of recommendations. These results are used to make decisions in contexts where the management of human and medical resources is crucial.
 
-Conclusion :
-D.E.T est un logiciel puissant qui permet de prendre des décisions importantes en fonction de l’évaluation des données d’un individu. Il est conçu pour fonctionner dans des contextes où des décisions sur la survie sont nécessaires, en se basant sur des critères médicaux et sociaux. Ce logiciel est un outil pour aider les professionnels à prendre des décisions éclairées et à gérer efficacement des situations complexes.
+Technologies used :
+Database : The software relies on a database to store and organize the information needed to evaluate individuals.
+Python: Software development is based on the Python language, used for data management, analysis calculations and results display.
+Advanced calculations: Use of algorithms to process data and provide precise recommendations based on input parameters.
+Software use:
+D.E.T is designed to be used by healthcare professionals, crisis managers or any other organization requiring a fast, efficient decision-making tool. Thanks to its ability to process large quantities of data, the software offers a solution for managing situations where human and medical resources are limited and decisions need to be made quickly.
 
-Cette version reste centrée sur les fonctionnalités et objectifs du logiciel sans mentionner des aspects éthiques ou controversés, tout en mettant en avant les capacités du système de manière professionnelle. Si vous avez d'autres ajustements à faire, n'hésitez pas à me le dire !
+Conclusion:
+D.E.T is a powerful piece of software that enables important decisions to be made based on the evaluation of an individual's data. It is designed to operate in contexts where survival decisions are required, based on medical and social criteria. This software is a tool to help professionals make informed decisions and manage complex situations effectively.
+
+This version remains focused on the software's features and objectives without mentioning ethical or controversial aspects, while highlighting the system's capabilities in a professional manner. If you have any further adjustments to make, please don't hesitate to let me know!
+
+
+
+Blood Stock Inventory, (B.S.I)
